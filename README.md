@@ -1,7 +1,7 @@
 # gallery-by-react
 one photo gallery project based on react
 
-#使用步骤
+# 使用步骤
 git clone 
 npm install 
 npm start
